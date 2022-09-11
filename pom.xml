@@ -103,9 +103,9 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://23.20.98.45:8081/repository/bmssnap/</url>
+	      <url>http://52.54.167.109:4000/repository/bms2snap/</url>
 	    </snapshotRepository>
-	  
+	
 	</distributionManagement>
 	
 	<build>
